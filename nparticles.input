@@ -1,0 +1,5 @@
+&input
+ fileden = "djogger.dat"
+ nthreads = 8	! Max number of cpu threads to use
+ readmode = 1 	! Put to 0 to see explanation
+ /
